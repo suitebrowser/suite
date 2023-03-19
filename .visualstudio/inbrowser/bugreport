@@ -1,0 +1,13 @@
+<!-- Typing error into the address bar or pressing CTRL + P will open this. -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>\suite</title>
+  </head>
+  
+  Find an error? 
+  
+  <!-- This is a footer for most Suite built-in pages -->
+  <h3>Suite is developed by all contributors on GitHub</h3>
+  <p>Head to <a href="https://bensyxx.dev/suite">https://bensyxx.dev/suite</a> to view the list.<p>
